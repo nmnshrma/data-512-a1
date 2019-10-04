@@ -18,7 +18,7 @@ The project aims to perform a simple analysis done with data for the monthly tra
 
 ## API Documentation
 
-The key APIs used in the project are the Wikimedia Pagecounts API and the Wikimedia Pageviews API.
+The key APIs used in the project are the [Wikimedia Pagecounts API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts) and the [Wikimedia Pageviews API](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews).
 
 - The Legacy Pagecounts API provides access to desktop and mobile traffic data from December 2007 through July 2016.
 - The Pageviews API provides access to desktop, mobile web, and mobile app traffic data from July 2015 through last month.
