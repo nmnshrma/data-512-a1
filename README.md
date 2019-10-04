@@ -10,9 +10,9 @@ The project aims to perform a simple analysis done with data for the monthly tra
 | pagecount_all_views     | num_views | All views during the month, per the legacy pagecount API         |
 | pagecount_desktop_views | num_views | All Desktop views during the month, per the legacy pagecount API |
 | pagecount_mobile_views  | num_views | All Mobile views during the month, per the legacy pagecount API  |
-| pageview_all_views      | num_views | All views during the month, per the pageview API                 |
-| pageview_desktop_views  | num_views | All Desktop views during the month, per the pageview API         |
-| pageview_mobile_views   | num_views | All mobile views during the month, per the pageview API          |
+| pageview_all_views      | num_views | All views during the month, per the pageview API, excluding non-organic views                 |
+| pageview_desktop_views  | num_views | All Desktop views during the month, per the pageview API, excluding non-organic views         |
+| pageview_mobile_views   | num_views | All mobile views during the month, per the pageview API, excluding non-organic views          |
 
 
 
